@@ -1,1 +1,3 @@
 SignIn Activity
+
+Log Out Activity
