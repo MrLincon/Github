@@ -1,2 +1,2 @@
-This text is the main File
-*Lincon
+This text is written by Lincon
+This is V2 and updated for final Release....
